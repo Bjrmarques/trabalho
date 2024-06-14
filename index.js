@@ -86,4 +86,4 @@ switch(esc){
 }
 
 
-batalha(jogador, inimigo)
+batalha(jogador, inimigo
